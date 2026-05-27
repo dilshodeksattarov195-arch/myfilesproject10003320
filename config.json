@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingvelete",
+        "uuid": 26609800,
+        "checksum": "4ibzse"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
